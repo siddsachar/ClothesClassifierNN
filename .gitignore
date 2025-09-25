@@ -1,0 +1,5 @@
+# Ignore FashionMNIST dataset folder
+fashionMNIST/
+
+# Ignore notebook markdown export
+clothesClassifier.md
