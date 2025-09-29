@@ -3,3 +3,4 @@ fashionMNIST/
 
 # Ignore notebook markdown export
 clothesClassifier.md
+clothesClassifier.html
